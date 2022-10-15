@@ -21,3 +21,7 @@ fork 및  PR 연습
 ## 우주완
 
 fork 및 PR 연습
+
+## 전수진
+
+fork 및 PR 연습
